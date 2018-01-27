@@ -1,4 +1,4 @@
-ReactJS Basics
+# ReactJS Basics
 
 Series of 16 videos from Academind:
 
@@ -20,3 +20,5 @@ Series of 16 videos from Academind:
 16. React Router Navigation and Parameters.
 
 Link: https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS
+
+![Screenshot](https://github.com/elivanK/reactjs-bascis/blob/master/Screen%20Shot%202018-01-27%20at%204.31.08%20PM.png)
