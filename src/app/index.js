@@ -6,7 +6,7 @@ import {Home} from "./components/Home";
 class App extends React.Component {
     //Set a constructor to an initial state
     constructor() {
-        super()
+        super();
         this.state = {
             homeLink: "Home"
         };
@@ -35,6 +35,7 @@ class App extends React.Component {
                     initialAge={27} 
                     greet={this.onGreet}
                     changeLink={this.onChangedLinkName.bind(this)}
+                    initialLinkName={this.state.homeLink}
                     />
                     
                     </div>
